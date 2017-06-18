@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm">Re-Password</string>
+    <string name="yourWallet">Your Wallet</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="add_account">Add Account</string>
+    <string name="add_record">Add Record</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="record">Record</string>
+    <string name="chart">Chart</string>
+    <string name="categories">Categories</string>
+    <string name="title_activity_add_record">Add Record</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="total">Your Money</string>
+    <string name="submit">Submit</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="dropdown_arrays">
+        <item>IDR</item>
+    </string-array>
+
+    <string-array name="income_categories">
+        <item>Others</item>
+        <item>Food and Drinks</item>
+        <item>Shopping</item>
+        <item>Transportation</item>
+        <item>Life and Entertainment</item>
+        <item>Vehicle</item>
+        <item>Investments</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Food and Drinks</item>
+        <item>Shopping</item>
+        <item>Transportation</item>
+        <item>Life and Entertainment</item>
+        <item>Vehicle</item>
+        <item>Investments</item>
+    </string-array>
+
+    <string name="title_activity_record">activity_record</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
